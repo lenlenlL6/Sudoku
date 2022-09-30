@@ -1,2 +1,2 @@
-# Sudoku
-A small game programmed in the Lua language, based on the game Sudoku
+## Sudoku
+> This code is not optimized and I am young and inexperienced, sorry.
